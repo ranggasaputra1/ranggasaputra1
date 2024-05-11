@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Rangga Saputra</h1>
-<h3 align="center">A passionate Backend developer from Indonesia</h3>
+<h3 align="center">A Newbie Backend developer full of dreams from Indonesia</h3>
 <p alighn="center">Hello everyone, I am Rangga Saputra a newbie who is focusing on becoming a Backend Developer. Currently I am focusing on API Creation and also fullstack Web development using PHP and Laravel Framework. I also often experiment to deploy projects to Google Cloud.</p>
 
 - 🔭 I’m currently cohort at [Bangkit Academy led by Google, Gojek, Tokopedia & Traveloka](https://grow.google/intl/id_id/bangkit/?tab=machine-learning)
