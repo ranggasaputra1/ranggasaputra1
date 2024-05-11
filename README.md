@@ -11,8 +11,8 @@
 - ⚡ Fun fact **I am a Newbie but I have a very high curiosity and learning regarding the world of Backend**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rangga saputra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rangga saputra" height="30" width="40" /></a>
-<a href="https://instagram.com/ranggasaputra_37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ranggasaputra_37" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rangga-saputra-701516294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rangga saputra" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rangga_saputra37/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rangga_saputra37" height="30" width="40" /></a>
 </p>
 
 
